@@ -1,4 +1,4 @@
-package headspace.practice.exercise;
+package headfirst.practice.exercise;
 
 public class CodeMagnet5 {
 public static void main(String[] args){
@@ -8,6 +8,7 @@ public static void main(String[] args){
 		}
 		for(int y=4;y>2;y--){
 			System.out.println(x+" "+y);
+			//System.out.println(x+" "+y);
 		}
 	}
 }

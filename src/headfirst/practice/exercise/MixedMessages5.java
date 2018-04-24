@@ -1,4 +1,4 @@
-package headspace.practice.exercise;
+package headfirst.practice.exercise;
 
 public class MixedMessages5 {
 public static void main(String[] args){

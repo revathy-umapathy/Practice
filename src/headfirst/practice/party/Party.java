@@ -1,4 +1,4 @@
-package headspace.practice.party;
+package headfirst.practice.party;
 
 
 import java.awt.*;
