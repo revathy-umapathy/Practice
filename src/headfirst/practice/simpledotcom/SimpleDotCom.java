@@ -1,4 +1,4 @@
-package headfirst.practice.SimpleDotCom;
+package headfirst.practice.simpledotcom;
 
 public class SimpleDotCom {
 int[] locationCells;
